@@ -117,3 +117,6 @@ a:link {
   background-color: transparent;
   text-decoration: none;
 }
+a{
+   color: var(--primary);
+}
